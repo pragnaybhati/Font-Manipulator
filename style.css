@@ -25,3 +25,11 @@
     font-size: 19px;
     padding: 4px;
 }
+
+canvas {
+    border: 5px dashed black;
+}
+
+video {
+    border: 5px dashed black;
+}
